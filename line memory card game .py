@@ -1,5 +1,6 @@
 #this is line memory card game
 #created by  salma ameer
+#contact : salmaameer409@gmail.com
 #the game is multipalyer game , each  player has to pick two numbers and if they match he
 #will take point and if not the his score will be the same
 # Note :to activate function  sleep go to run>>edit configuration >>emulate terminal in output console
